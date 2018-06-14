@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/db4o.iml" filepath="$PROJECT_DIR$/db4o.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Obiektowa.iml" filepath="$PROJECT_DIR$/Obiektowa.iml" />
     </modules>
   </component>
 </project>
